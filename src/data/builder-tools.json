@@ -1,4 +1,5 @@
-{
+[
+  {
     "title": "DCOne Crypto Webhook API",
     "description": "API for developers to receive information on changing stake balance.",
     "image": "/src/data/builder-tools/dconecrypto-webhook.png",
@@ -6,3 +7,4 @@
     "getstarted": "",
     "tags": ["http"]
   }
+]
