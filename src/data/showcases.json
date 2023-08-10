@@ -6,5 +6,45 @@
         "website": "https://dconecrypto.finance/",
         "source": "",
         "tags": ["ecosystem"]
+    },
+    {
+        "title": "Cardano Scan",
+        "description": "A combination of block explorer and pool tool, uses it's own implementation of db-sync.",
+        "image": "/src/data/showcase/cardanoscan.png",
+        "website": "https://cardanoscan.io/",
+        "source": null,
+        "tags": ["explorer"]
+    },
+    {
+        "title": "Eternl",
+        "description": "The alternative Cardano light wallet in the browser. Aims to add features most requested by the Cardano community.",
+        "image": "/src/data/showcase/eternl.jpg",
+        "website": "https://eternl.io",
+        "source": null,
+        "tags": ["wallet"]
+    },
+    {
+        "title": "Yoroi",
+        "description": "Yoroi is a lightweight node and developed by EMURGO, one of the founding entities of Cardano.",
+        "image": "/src/data/showcase/yoroi.png",
+        "website": "https://yoroi-wallet.com",
+        "source": "https://github.com/Emurgo/yoroi-frontend",
+        "tags": ["wallet", "opensource"]
+    },
+    {
+        "title": "PoolTool",
+        "description": "One of the most feature-rich, unbiased pool tools. Also offers a native app.",
+        "image": "/src/data/showcase/pooltool.png",
+        "website": "https://pooltool.io",
+        "source": null,
+        "tags": ["analytics"]
+    },
+    {
+        "title": "AdaLite",
+        "description": "AdaLite was developed by vacuumlabs, they were also responsible for the Cardano Ledger app and won the crypto puzzle at the IOHK Summit 2019.",
+        "image": "/src/data/showcase/adalite.png",
+        "website": "https://adalite.io",
+        "source": null,
+        "tags": ["wallet"]
     }
 ]
