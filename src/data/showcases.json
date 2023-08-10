@@ -1,8 +1,8 @@
 {
-    "title" : "",
-    "description":"",
-    "image":"",
-    "website": "",
+    "title" : "DCOne Crypto",
+    "description":"Cardano ecosystem interface map showing all projects and dapps on the Cardano blockchain (ADA)",
+    "image":"/src/data/showcase/dconecrypto.png",
+    "website": "https://dconecrypto.finance/",
     "source": "",
-    "tags": [""]
+    "tags": ["ecosystem"]
 }
