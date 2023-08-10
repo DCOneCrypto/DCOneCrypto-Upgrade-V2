@@ -46,5 +46,29 @@
         "website": "https://adalite.io",
         "source": null,
         "tags": ["wallet"]
+    },
+    {
+        "title": "World Mobile Token",
+        "description": "Connecting everyone, everywhere. A mobile network owned by the people and built on blockchain.",
+        "image": "/src/data/showcase/wmt.png",
+        "website": "https://worldmobile.io",
+        "source": null,
+        "tags": ["token"]
+    },
+    {
+        "title": "Lace",
+        "description": "A new light wallet platform from IOG, one of the creators of Cardano. Manually verified by an independent auditor, Lace lets you quickly, easily, and securely manage your digital assets and enjoy Web3.",
+        "image": "/src/data/showcase/lace.png",
+        "website": "https://www.lace.io/",
+        "source": "https://github.com/input-output-hk/lace",
+        "tags": ["wallet", "opensource"]
+    },
+    {
+        "title": "WingRiders",
+        "description": "The DEX on Cardano. Native and fast AMM decentralized exchange platform.",
+        "image": "/src/data/showcase/wingriders.png",
+        "website": "https://www.wingriders.com",
+        "source": null,
+        "tags": ["dex", "token"]
     }
 ]
