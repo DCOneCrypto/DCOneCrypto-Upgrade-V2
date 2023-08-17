@@ -110,5 +110,29 @@
         "website": "https://www.taptools.io",
         "source": null,
         "tags": ["token","explorer"]   
+	},
+	{
+		"title": "Daedalus",
+        "description": "Daedalus is a full node and developed by IOHK, one of the founding entities of Cardano.",
+        "image": "/src/data/showcase/daedalus.png",
+        "website": "https://daedaluswallet.io",
+        "source": "https://github.com/input-output-hk/daedalus",
+        "tags": ["wallet","opensource"]   
+	},
+	{
+		"title": "Lido Nation",
+        "description": "Aggregation of existing catalyst proposals, results, feedbacks and many more.",
+        "image": "/src/data/showcase/lidonation.png",
+        "website": "https://www.lidonation.com/en/project-catalyst/projects",
+        "source": null,
+        "tags": ["catalyst","analytics"]   
+	},
+	{
+		"title": "GeroWallet",
+        "description": "Start exploring the possibilities of Cardano. Purchase, send, and receive ADA - the cryptocurrency for Cardano. Available as a browser extension.",
+        "image": "/src/data/showcase/gerowallet.png",
+        "website": "https://gerowallet.io",
+        "source": null,
+        "tags": ["wallet"]   
 	}
 ]
