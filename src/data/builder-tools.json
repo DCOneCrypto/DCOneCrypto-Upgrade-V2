@@ -22,5 +22,37 @@
     "website": "https://github.com/gitmachtl/scripts",
     "getstarted": null,
     "tags": ["operatortool", "cli"]
+  },
+  {
+    "title": "Demeter.run",
+    "description": "A cloud environment with all the tools for building your dApp.",
+    "image": "/src/data/builder-tools/demeter.png",
+    "website": "https://demeter.run",
+    "getstarted": null,
+    "tags": ["ide"]
+  },
+  {
+    "title": "Guild Operators Suite",
+    "description": "A collection of tools (CNTools, gLiveView, topologyUpdater and more) to simplify typical operations to help community simplify wallet keys, pool management and interact with blockchain.",
+    "image": "/src/data/builder-tools/guild-operators.png",
+    "website": "https://cardano-community.github.io/guild-operators",
+    "getstarted": "https://github.com/cardano-community/guild-operators",
+    "tags": ["operatortool"]
+  },
+  {
+    "title": "Cardano Blockchain Snapshots",
+    "description": "Download the latest Cardano blockchain snapshot.",
+    "image": "/src/data/builder-tools/cardano-snapshots.png",
+    "website": "https://cSnapshots.io",
+    "getstarted": null,
+    "tags": ["operatortool","chainindex"]
+  },
+  {
+    "title": "Koios",
+    "description": "Elastic light/full-mode API query-layer for Cardano Blockchain.",
+    "image": "/src/data/builder-tools/koios.png",
+    "website": "https://koios.rest",
+    "getstarted": "https://github.com/cardano-community/koios-artifacts",
+    "tags": ["http","json"]
   }
 ]
