@@ -1,6 +1,6 @@
-[F10: Products & Integrations](https://cardano.ideascale.com/c/campaigns/348/stage/stage-communityreview2066a4/ideas/unspecified)
+[F11: Cardano Use Cases: Product](https://cardano.ideascale.com/c/campaigns/406/stage/all/ideas/unspecified)
 
-# DCOne Crypto Upgrade V2
+# DCOne Crypto - Improved open source code V2 - Real-Time Asset Analysis
 Answer:
 
 Build a platform to aggregate project information and provide project evaluation and reporting statistics. Besides, tracking tools, buying / selling history, real-time analysis are very few developers
@@ -18,7 +18,7 @@ Build a platform to aggregate project information and provide project evaluation
 **[GENERAL] Name and surname of main applicant
 Answer:**
 
-Dinh Huu Tac Qui
+DCOne Crypto
 
 **[GENERAL] Email address of main applicant
 Answer:**
@@ -33,12 +33,12 @@ I am the main candidate
 **[GENERAL] Requested funds in ada
 Answer:**
 
-413273
+403273
 
 **[GENERAL] Please specify how many months you expect your project to last (from 2-12 months)
 Answer:**
 
-6
+7
 
 **[GENERAL] Please indicate if your proposal has been auto-translated into English from another language.
 Auto-translated?**
